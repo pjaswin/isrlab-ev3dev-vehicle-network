@@ -15,4 +15,4 @@ Each of the following directories contains the source code:
 
 
 
--The source codes in ev3_av_1 and ev3_emergency_vehicle are to be executed in the Lego Mindtorms EV3 devices after [installing](https://pybricks.com/install/mindstorms-ev3/installation/) Pybrick on it. The ev3_pc_server needs to be run on a linux environment.
+The source codes in ev3_av_1 and ev3_emergency_vehicle are to be executed in the Lego Mindtorms EV3 devices after [installing](https://pybricks.com/install/mindstorms-ev3/installation/) Pybrick on it. The ev3_pc_server needs to be run on a linux environment.
